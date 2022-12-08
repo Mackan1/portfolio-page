@@ -1,6 +1,6 @@
 # Portfolio page
 
-Min portefølje side er bygget med NextJS og bootstrap. Dette projekt var startet som et "for fun" projekt så derfor kan koden være lidt rodet. 
+Min portefølje side er bygget med NextJS og bootstrap. Dette projekt startede som et "for sjov projekt" så derfor kan koden være lidt rodet. 
 
 ## For at køre NextJS applikationen:
 
